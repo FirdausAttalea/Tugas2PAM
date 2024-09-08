@@ -1,5 +1,4 @@
-Johanes Paulus Bernard Purek - 225150407111090  
-
+Achmad Firdaus Attalea Yessa - 225150407111086
 Tugas 2 - Pengembangan Aplikasi Mobile Kelas SI-B  
 
 - Buat aplikasi :
